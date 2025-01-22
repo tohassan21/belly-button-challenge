@@ -10,3 +10,5 @@ Used Xpert Learning Assistant to assist me with:
 How to run:
 - Open the index.html file using LiveServer.
 - Select a Test Subject ID Number using the dropdown to see its data.
+
+You can also access it from the repo page at this link: https://tohassan21.github.io/belly-button-challenge/
